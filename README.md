@@ -1,8 +1,6 @@
 ## Overview of school district analysis
 
-Overview of the school district analysis: Explain the purpose of this analysis. 
-
-The purpose of the school district analysis is to correct data that was assumed to be correct. After evidence of academic dishonesty was discovered and data within students_complete.csv was known to be incomplete; further analysis was needed to accurately provide data about the school district analysis.
+The purpose of the school district analysis is to correct data that was assumed to be correct. After evidence of academic dishonesty was discovered and data within *students_complete.csv* was known to be incomplete; further analysis was needed to accurately provide information about the school district analysis.
 
 The audit is looking to correct the data by:
 - remove Thomas High School ninth graders
@@ -10,21 +8,16 @@ The audit is looking to correct the data by:
 - repeat school district analysis
 
 ## School District Analysis Results
-Results as followed
-
-
-
-
 **How is the district summary affected?**
 There was a small drop after removed THS ninth graders from the data set, in % Overall Passing fell by 0.3%.  
 **How is the school summary affected?**
-Thomas High School analysis shows significant changes in % Passing Math, % Passing Reading, and % Overall Passing. Provided below are two figures that show the changes from before and after the removal of THS.
+Thomas High School analysis shows significant changes in % Passing Math, % Passing Reading, and % Overall Passing. Provided below are two figures that show the changes from before and after the removal of THS. The biggest change was % Overall Passing falling from 91% to 65%.
 
-- Before THS Removal
-- ![Before THS Ninth grade removal](https://github.com/HappyM0f0/School_District_Analysis/blob/main/Resources/Before_removal.png)
+- Before THS ninth grade removal
+    - ![Before THS Ninth grade removal](https://github.com/HappyM0f0/School_District_Analysis/blob/main/Resources/Before_removal.png)
 
-- After THS Removal
-- ![Before THS Ninth grade removal](https://github.com/HappyM0f0/School_District_Analysis/blob/main/Resources/After_removal.png)
+- After THS ninth grade removal
+    - ![Before THS Ninth grade removal](https://github.com/HappyM0f0/School_District_Analysis/blob/main/Resources/After_removal.png)
 
 **How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?**
 
