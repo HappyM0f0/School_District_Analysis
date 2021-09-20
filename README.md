@@ -21,6 +21,7 @@ The figures below show the changes before and after the removal of Thomas High S
 
 **How does replace the ninth graders' math and reading scores affect Thomas High School's performance relative to the other schools?**
 Removing the ninth-graders scores improved the school ranking from fourth to second overall based on *% Overall Pass*. 
+
 **How does replacing the ninth-grade scores affect the following:**
 - **Math and reading scores by grade**
     - No changes to other grades.
