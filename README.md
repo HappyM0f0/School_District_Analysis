@@ -22,14 +22,14 @@ The figures below show the changes before and after the removal of Thomas High S
 **How does replace the ninth graders' math and reading scores affect Thomas High School's performance relative to the other schools?**
 Removing the ninth-graders scores improved the school ranking from fourth to second overall based on *% Overall Pass*. 
 **How does replacing the ninth-grade scores affect the following:**
-    - **Math and reading scores by grade**
-        - No changes to other grades.
-    - **Scores by school spending**
-        - No changes to school size as the scores were removed not the students.
-    - **Scores by school size**
-        - No changes to school size as the scores were removed not the students.
-    - **Scores by school type**
-        - No changes to school size as the scores were removed not the students.
+- **Math and reading scores by grade**
+    - No changes to other grades.
+- **Scores by school spending**
+    - No changes to school size as the scores were removed not the students.
+- **Scores by school size**
+    - No changes to school size as the scores were removed not the students.
+- **Scores by school type**
+    - No changes to school size as the scores were removed not the students.
 
 ## Election Audit Summary
 **Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.**
