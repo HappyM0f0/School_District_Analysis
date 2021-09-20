@@ -9,8 +9,11 @@ The audit is looking to correct the data by:
 
 ## School District Analysis Results
 **How is the district summary affected?**
-There was a negligible drop after removing THS ninth-graders from the data set.  
+
+There was a negligible drop after removing THS ninth-graders from the data set. 
+ 
 **How is the school summary affected?**
+
 The figures below show the changes before and after the removal of Thomas High School ninth-graders from the data set.
 
 - Before THS ninth grade removal
@@ -20,6 +23,7 @@ The figures below show the changes before and after the removal of Thomas High S
     - ![Before THS Ninth grade removal](https://github.com/HappyM0f0/School_District_Analysis/blob/main/Resources/After_removal.png)
 
 **How does replace the ninth graders' math and reading scores affect Thomas High School's performance relative to the other schools?**
+
 Removing the ninth-graders scores improved the school ranking from fourth to second overall based on *% Overall Pass*. 
 
 **How does replacing the ninth-grade scores affect the following:**
