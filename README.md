@@ -21,10 +21,10 @@ There was a small drop after removed THS ninth graders from the data set, in % O
 Thomas High School analysis shows significant changes in % Passing Math, % Passing Reading, and % Overall Passing. Provided below are two figures that show the changes from before and after the removal of THS.
 
 - Before THS Removal
-![Before THS Ninth grade removal](https://github.com/HappyM0f0/School_District_Analysis/blob/main/Resources/Before_removal.png)
+- ![Before THS Ninth grade removal](https://github.com/HappyM0f0/School_District_Analysis/blob/main/Resources/Before_removal.png)
 
 - After THS Removal
-![Before THS Ninth grade removal](https://github.com/HappyM0f0/School_District_Analysis/blob/main/Resources/After_removal.png)
+- ![Before THS Ninth grade removal](https://github.com/HappyM0f0/School_District_Analysis/blob/main/Resources/After_removal.png)
 
 **How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?**
 
