@@ -37,6 +37,5 @@ Removing the ninth-graders scores improved the school ranking from fourth to sec
     - No changes to school size as the scores were removed not the students.
 
 ## Election Audit Summary
-**Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.**
 
 The new analysis replaced Thomas High School ninth-graders Math and Reading scores with NaN values to not significantly alter the results. In addition, adjustments in % Reading Pass, % Math Pass, and % Overall Pass to only measure from grades 10 - 12.
